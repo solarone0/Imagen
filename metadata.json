@@ -1,0 +1,5 @@
+{
+  "name": "AI Persona Remixer",
+  "description": "Upload an image of a person and use AI to transform their style and pose. You can use presets or provide your own custom prompts to generate a new version of the image while maintaining the person's identity.",
+  "requestFramePermissions": []
+}
